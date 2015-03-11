@@ -1,0 +1,21 @@
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\bin\Debug\breakout.exe.config
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\bin\Debug\breakout.exe
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\bin\Debug\breakout.pdb
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\obj\Debug\breakout.csprojResolveAssemblyReference.cache
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\obj\Debug\breakout.exe
+c:\users\spp105\documents\visual studio 2013\Projects\breakout\breakout\obj\Debug\breakout.pdb
+F:\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.exe.config
+F:\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.exe
+F:\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.pdb
+F:\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.exe
+F:\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.pdb
+F:\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.csprojResolveAssemblyReference.cache
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.exe.config
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.exe
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.pdb
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.exe
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\bin\Debug\breakout.pdb
+E:\USBBACKUp\Projects\JJ_breakout_V2\breakout\obj\Debug\breakout.csprojResolveAssemblyReference.cache
+F:\Projects\JJ_breakout_V3\breakout\bin\Debug\breakout.exe.config
+F:\Projects\JJ_breakout_V3\breakout\obj\Debug\breakout.exe
+F:\Projects\JJ_breakout_V3\breakout\obj\Debug\breakout.pdb
